@@ -282,7 +282,6 @@ No diagrama abaixo está representando o diagrama atual da arquitetura.
   - Pesquisas em fóruns do Terraform e medium.
 Além disso, algumas outras mudanças de segurança incluem:
 - Geração e armazenamento das chaves SSH. 
-- Adicionar a porta 443 no grupo de segurança para permitir acesso HTTPS no servidor da instância.
 
 ### Automação da Instalação do Nginx
 
